@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ansh Dwivedi ✨
+## 👋 Hey, I'm Ansh Dwivedi ✨
 
 🎓 B.Tech (ECAM - AI/ML) student at NSUT  
 🌱 Currently building real world AI & full stack web apps  
